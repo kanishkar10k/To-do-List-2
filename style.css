@@ -1,0 +1,42 @@
+body{
+     background-color: green;
+     padding-left: 500px;
+     padding-top: 50px;
+}
+.box1{
+    background-color: white;
+    border-radius:15px;
+    width: fit-content;
+    padding-right: 40px;
+}
+.box2{
+    border: 2px solid white;
+    border-radius: 15px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    width: fit-content;
+}
+button{
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color:white;
+}
+#add{
+    background-color: rgb(42, 42, 224);
+}
+#save{
+    background-color: green;
+}
+#clear{
+    background-color: blue;
+}
+#empty{
+    background-color: red;
+}
+#line{
+    text-decoration: line-through;
+}
+a:hover{
+    background-color: gainsboro;
+}
